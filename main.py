@@ -6,4 +6,6 @@ pagrindinis.title("Mano programa")
 pagrindinis.iconbitmap(r'html.ico')
 uzrasas.pack()
 
+print("Labas")
+
 pagrindinis.mainloop()
